@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SkySMP-562j.aternos.me",
+    "ip": "SkySMP-562j.aternos.me:24435",
     "port": 24435,
     "version": "",
     "try-creative": false
